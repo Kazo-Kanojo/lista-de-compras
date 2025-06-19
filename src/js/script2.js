@@ -1,6 +1,7 @@
 const botaoSalvar = document.getElementById("button")
 const textoInput = document.getElementById("input-texto")
 const listaDeCompras = document.querySelector("div")
+const removerItes = document.getElementById("remover")
 let contador = 0;
 
 botaoSalvar.addEventListener("click", (salvar)=>{
