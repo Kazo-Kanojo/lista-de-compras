@@ -83,10 +83,11 @@ p {
     background-color: var(--cor-primaria);
     color: var(--neutro);
     font-family: var(--fonte-texto);
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 24px;
     border: none;
+    cursor: pointer;
 }
 
 form {
